@@ -4,7 +4,7 @@ export const portfolioData = {
   location: "India",
   about:
     "MERN learner who loves building clean, fast, responsive web apps. I enjoy React, Node, and solving real problems with code.",
-  profilePic: "/profile.svg",
+  profilePic: "/profile.jpg",
   skills: [
     "HTML", "CSS", "JavaScript", "TypeScript", "React", "Vite",
     "TailwindCSS", "Node.js", "Express", "MongoDB", "Git"
